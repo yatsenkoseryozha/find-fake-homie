@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+}
+
+.set_info {
+  margin: 0 10px 10px 0;
+}
+
+#fake_homies_area {
+  display: none;
+}
